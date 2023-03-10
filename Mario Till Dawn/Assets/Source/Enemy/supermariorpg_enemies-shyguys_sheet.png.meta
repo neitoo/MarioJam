@@ -1,0 +1,3082 @@
+fileFormatVersion: 2
+guid: 895530546574ee8439489639a28eadd7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 447
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c506a92b876fd247b3987c8eb71419c
+      internalID: -1190881807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 446
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb391a85d9bf604f893a21367c578a0
+      internalID: 776542376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 446
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b06ceafbe965d4b9b56c0ea7fee3a4
+      internalID: 730890440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 446
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43984ea018041b44c8465f4b831ba297
+      internalID: -71875407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 447
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4807c54dbcafcfa45941ccdfca5035f8
+      internalID: -448173694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 447
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36800d1d9beed0f4e9bee3f5d19edd99
+      internalID: -1256453051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 447
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74b657f0c926e845a6f4507fbbb75c3
+      internalID: -804782992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 466
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b03651e5c3adbe408a396b592daefa1
+      internalID: 682264096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 445
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b7b17183135e24e94c1e7d14f289aa
+      internalID: 585023829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 443
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59f071f61c84f84eafea263abda5249
+      internalID: 483773590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 443
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03de3f92f6e5203409a8a34e3801805d
+      internalID: 997036708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 444
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376e091ff2f04224c8f743a69619da77
+      internalID: 465080045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 407
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29ddf48da469c84b9f687514c159304
+      internalID: 536097287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 406
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2255eb4a5221464288db53659e9de1e
+      internalID: 1721140014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 407
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199f50c9b55d7784d929ba1df551dd5f
+      internalID: 992378088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 406
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe27dc00598ae2d4aae8b13be4b2323f
+      internalID: -1324347574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 407
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a6b3085cafcdf4a8d553dc450c721d
+      internalID: 1961584666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 407
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7f80cf990546f449e1662489779848
+      internalID: -665511359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 426
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89649ec840024284fa88d87d0249d0ce
+      internalID: -1324236185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 405
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a9e7b9ff448054c98dfae5c8d4baf8
+      internalID: 2116228812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 406
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e16296277c95644dbc91044b426e887
+      internalID: -556742618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 403
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c0d14a1fbc98349bb6bf08d28a45a8
+      internalID: 211423967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 400
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c3dc29df40aa2449261c23e791fb32
+      internalID: 1766675020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 407
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9b7ba1144ce8340b4337bf7a039844
+      internalID: -390245589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 367
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5267181d7526944b94fdf38222b03d
+      internalID: 1263780585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 366
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda7a542211d0174282d9b81826ff6ec
+      internalID: 10194044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 366
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ffbd62ab2de864ea19a5b06a54ff01
+      internalID: 1142718687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 367
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0813e33b19e1dd24aa955439a5efa59b
+      internalID: 150568785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 367
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8effef5bd161bcf4d8458069e97f5c67
+      internalID: 1499424946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 367
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4cca3e77af3d84fa7cdf7a8879da6c
+      internalID: -1880570986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 386
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baca472effcca64faad0c1a55be509c
+      internalID: 1273790864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 365
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92a90d8ef63a764a92688b116e988b1
+      internalID: -952145258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 367
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4ac4a6d0801cd4298059c650bc7513
+      internalID: 1849421362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 362
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bddb11937042ac428e9e910c4c0eec0
+      internalID: 1195303479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 362
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b036ae98ec57c4d8aad2a24203fbe7
+      internalID: -98016734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 375
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6a58d16bdc0994991e9a7bfa48f494
+      internalID: -1280813558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 327
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e54096729baaa4fb6c8a3875f99294
+      internalID: -1816900928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 326
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370b0929fd0bd82469b2c76070c3c7fa
+      internalID: -2071801247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 326
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed373fecb5657054a8f352088ec3d331
+      internalID: -279153473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 326
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f16376541e186458d5d0fbd79007be
+      internalID: -1523608288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 327
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d49a772bc237a44da489f996b2605ff
+      internalID: 154707369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 327
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5827433a12e88af41ace81c8b7e967eb
+      internalID: -1284524874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 327
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060a94ae436496842a79008ced3323b0
+      internalID: -13210384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 346
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1465c938e8ab044e8c5f3f90d376c16
+      internalID: 1654549788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 325
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9d4c9ab0c37c742ba1d940fed2f644
+      internalID: -1979960233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 323
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba6f05f1a6966d42bea137f86777111
+      internalID: 1737422915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 343
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb141a143ddd774796877fd87994481
+      internalID: 908490667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 324
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c284455f82941408cefd486513f85f
+      internalID: 772931625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 310
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28f976bf4cc4b54db3c538e1a6e85e7
+      internalID: 958506028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 287
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a35fa4bead017419070f7d53bcc9fc
+      internalID: 2018417003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 286
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad82f1c437ede449994678a1af8d4c1
+      internalID: -637497956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 287
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2addced361599fa4d8ca0e3245835615
+      internalID: -51514583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 286
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75ed34ec73c4614681d223f178f16ee
+      internalID: 1962011317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 287
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe453b0dc7f2b6540b3607ac75c9e2f0
+      internalID: 1753837264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 287
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5d31296924e36458ebaf8a36d749d1
+      internalID: 1269231791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 306
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28efafbbe696fe643a5466965d0d396e
+      internalID: -2097427122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 285
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5733e1a70f249840b7c4ecff2293f74
+      internalID: 660610481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 286
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60214e77e7c63442af5a5e1be5bbb6b
+      internalID: 1215547317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 283
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82367bb0e5b6be49ad9e6956e15fc72
+      internalID: -997158841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 280
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2384835db8c394d499f303d26ce5a10d
+      internalID: 2039990978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 278
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952335b5893be764b88d3fb3fe156aba
+      internalID: 32793765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 247
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b174ca45df08342a1dcc379e5ac514
+      internalID: 1826375289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 246
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02bb54fdd8455f4896c78ff4c483f52
+      internalID: -1013859506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 246
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657bd6d4a04f3fa47abc635b58d8eb3b
+      internalID: 1286526082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 247
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c6418abd421ae42aa119b8989c253f
+      internalID: -1300878243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 247
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1388a0382196f9b48a6956679fb68124
+      internalID: -1650716426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 247
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8fac101f5298d408857d5d2e384a9a
+      internalID: 524152089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 266
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b43f2c745932484199e9d3a2dcb79af
+      internalID: 1475692539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 245
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b41a74a864ece49b149e6d49fb6538
+      internalID: -1158266952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 247
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbce5149d7eb2b14a990da978a67552e
+      internalID: 2074058195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 242
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7f1302c4e893046a759f14cd905b6f
+      internalID: 153202234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 242
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6911a47bea87c40acf2f21c2eb31f5
+      internalID: 488537499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 246
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1583525cf082b154b8420618b507262a
+      internalID: -2060542026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 206
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526e827f4e97c114e847d62fdbc87001
+      internalID: -1440289346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 206
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5189028e2012a3499e25b668216e004
+      internalID: -1344432280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 205
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee18797a293ad6841bdd6d3a15fd6389
+      internalID: 1870438544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 204
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cce985f8311f68448e86c684c106095
+      internalID: -1882655966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 205
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8403a147994236341835efbbd20a0b6b
+      internalID: -1741691551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 204
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc7f1215ef403241a8b2767cce94aa6
+      internalID: -580162383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 204
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936f4e0793ac5f541ae3bde98efc7c40
+      internalID: -847001663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 205
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b0cb2dc25810b418917d2b8dd298fa
+      internalID: -515119111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 220
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee25c051295657498eb7482007e47c7
+      internalID: 1244008589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 204
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1a80b3e394ae14d85b03cefd239d77
+      internalID: 609191984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 204
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6767e7c41ce6c544a9909efcf9b9d091
+      internalID: -1237915126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 200
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921c3bed3239c6d49b501e1a64a0e348
+      internalID: 584241949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 166
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0a684647899db45acdd504a7744b9c
+      internalID: 397705683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 166
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a100c4395b5f994d80a17bfe5fd4d93
+      internalID: 443125007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 165
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb6f97566682704c8a14f62d0f7847c
+      internalID: -130890643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 168
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76589bbc8fa5e8941b69dac195f7d387
+      internalID: -717064441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 165
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216f2c029cf3ad1468db45349d22a8df
+      internalID: -1098394988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 164
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c656e6662e038cf47b367c1d8b8ad7a0
+      internalID: -1556545339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 164
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3639e069848361249a6495f1f18cb76e
+      internalID: 864879293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 165
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82f6e597cba63f45bbc26ead0ec2592
+      internalID: -1387900684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 163
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c17b3a8140fda6469447de3a819083f
+      internalID: -613329125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 164
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b549aacc460b84144972615a607c40e4
+      internalID: 792123817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 160
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5ffcfddacefc24ebacb7670eaf3957
+      internalID: -378887240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f82485a744851f4ca7f7ac9bd0b3674
+      internalID: 568758638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 126
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb0b475b5e6aac47b1b06095a86151c
+      internalID: 1303682931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 125
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a311dcba9543c2f4bb110e82fe819310
+      internalID: 642053995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 125
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39fea2ad227a5b4ebdbb07b6c9953a4
+      internalID: -1364217807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 125
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ae82f984d3058479896af8a4931188
+      internalID: 702662131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 124
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce455a9bcc93534d8407c854d37e57e
+      internalID: 1709754866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 124
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32f36ccab64ee84dac42f82b3376f4c
+      internalID: -1009915581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 143
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b845986af35cd3249b919984328c2cfb
+      internalID: 631454742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 125
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0776c629ceb6c8f44bc9fe91d827cafd
+      internalID: 1909737653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 125
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f8d10cd9376ab439b875a37d8dd21c
+      internalID: 556314897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 124
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980c88ffd5da13b418515a5e7108fb54
+      internalID: -474836382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 118
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cb412a961df7b45ba1a59e187f1112
+      internalID: -710195493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21d0ca1a951fc344ab00f406e78710c
+      internalID: 2027079210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 81
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a610073b5340a9a4da7590548423a04a
+      internalID: 1528364742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 83
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494398bd1723bcc45923c43fc54eb95f
+      internalID: -1964267704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 82
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0defa3dc895609248a054b02159e0758
+      internalID: -1741790319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 81
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34acae5afd09cf24c9c3beddb92d5e4c
+      internalID: 1510741743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 81
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be99a5d57e00bf847b97c668d8c8edaf
+      internalID: -970662434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 83
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4d9a66ec20a574499a02c4d8aebd42
+      internalID: 322589740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 82
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfca03a9a9db2ce4987d0db64cd48a30
+      internalID: -2103476817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 9
+        width: 128
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4c6cf398285b64d874e74a32d8c10f
+      internalID: 523140322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5747328b9152b4a8324874a541645c
+      internalID: 219210513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 43
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d79334c1686ec43b13cce8d38255ec
+      internalID: 578366710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 43
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dd71ee72d42174797d6f8703b0e767
+      internalID: -1269030968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 45
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecd1a26ca429d24da83a08ee89d02a7
+      internalID: -833030331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 41
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8b41b8bd5eb004b809fb4d5af8bae6
+      internalID: 520469607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 43
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14cd7ed521f5474aabc0c70a8a43bc8
+      internalID: 1273563278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 43
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43171e6432be5b40b737f56a18eeb8b
+      internalID: 1782319013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 45
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7875a1b4e7ec24e43a1b18695bccd22c
+      internalID: 1675623023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798e49b510979074face558ff6821919
+      internalID: 216895174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490df818b3af5064c9500686dd49c926
+      internalID: 84914622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cff72fca094d94db008efce42253d2
+      internalID: -1847597943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 11
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76352c35ebef4fe4d8ad8b9ab31378ed
+      internalID: -405768217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be1254a51bb5884e8a95f3d7fa2df56
+      internalID: -598032948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 3
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842c2d75fc9b439479068c19977b1fa2
+      internalID: -195620795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e390c4bbd8e8c27468b518d1b88bf4b0
+      internalID: -1261476450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b488e2bf9301c419b0bf4dea62afb2
+      internalID: -1769141506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-shyguys_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962fc501748f03d499b943a721dc97f8
+      internalID: 1753521349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      supermariorpg_enemies-shyguys_sheet_1: 776542376
+      supermariorpg_enemies-shyguys_sheet_31: -952145258
+      supermariorpg_enemies-shyguys_sheet_56: 660610481
+      supermariorpg_enemies-shyguys_sheet_65: -1650716426
+      supermariorpg_enemies-shyguys_sheet_34: -98016734
+      supermariorpg_enemies-shyguys_sheet_13: 1721140014
+      supermariorpg_enemies-shyguys_sheet_26: 1142718687
+      supermariorpg_enemies-shyguys_sheet_63: 1286526082
+      supermariorpg_enemies-shyguys_sheet_71: 488537499
+      supermariorpg_enemies-shyguys_sheet_73: -1440289346
+      supermariorpg_enemies-shyguys_sheet_44: -1979960233
+      supermariorpg_enemies-shyguys_sheet_32: 1849421362
+      supermariorpg_enemies-shyguys_sheet_2: 730890440
+      supermariorpg_enemies-shyguys_sheet_100: 702662131
+      supermariorpg_enemies-shyguys_sheet_130: -195620795
+      supermariorpg_enemies-shyguys_sheet_74: -1344432280
+      supermariorpg_enemies-shyguys_sheet_58: -997158841
+      supermariorpg_enemies-shyguys_sheet_38: -279153473
+      supermariorpg_enemies-shyguys_sheet_133: 1753521349
+      supermariorpg_enemies-shyguys_sheet_61: 1826375289
+      supermariorpg_enemies-shyguys_sheet_12: 536097287
+      supermariorpg_enemies-shyguys_sheet_9: 483773590
+      supermariorpg_enemies-shyguys_sheet_46: 908490667
+      supermariorpg_enemies-shyguys_sheet_91: 864879293
+      supermariorpg_enemies-shyguys_sheet_87: -130890643
+      supermariorpg_enemies-shyguys_sheet_101: 1709754866
+      supermariorpg_enemies-shyguys_sheet_86: 443125007
+      supermariorpg_enemies-shyguys_sheet_36: -1816900928
+      supermariorpg_enemies-shyguys_sheet_21: 211423967
+      supermariorpg_enemies-shyguys_sheet_49: 2018417003
+      supermariorpg_enemies-shyguys_sheet_23: -390245589
+      supermariorpg_enemies-shyguys_sheet_54: 1269231791
+      supermariorpg_enemies-shyguys_sheet_113: -970662434
+      supermariorpg_enemies-shyguys_sheet_95: -378887240
+      supermariorpg_enemies-shyguys_sheet_117: 219210513
+      supermariorpg_enemies-shyguys_sheet_18: -1324236185
+      supermariorpg_enemies-shyguys_sheet_57: 1215547317
+      supermariorpg_enemies-shyguys_sheet_6: -804782992
+      supermariorpg_enemies-shyguys_sheet_111: -1741790319
+      supermariorpg_enemies-shyguys_sheet_76: -1882655966
+      supermariorpg_enemies-shyguys_sheet_89: -1098394988
+      supermariorpg_enemies-shyguys_sheet_93: -613329125
+      supermariorpg_enemies-shyguys_sheet_42: -13210384
+      supermariorpg_enemies-shyguys_sheet_128: -405768217
+      supermariorpg_enemies-shyguys_sheet_14: 992378088
+      supermariorpg_enemies-shyguys_sheet_102: -1009915581
+      supermariorpg_enemies-shyguys_sheet_41: -1284524874
+      supermariorpg_enemies-shyguys_sheet_11: 465080045
+      supermariorpg_enemies-shyguys_sheet_64: -1300878243
+      supermariorpg_enemies-shyguys_sheet_94: 792123817
+      supermariorpg_enemies-shyguys_sheet_25: 10194044
+      supermariorpg_enemies-shyguys_sheet_126: 84914622
+      supermariorpg_enemies-shyguys_sheet_55: -2097427122
+      supermariorpg_enemies-shyguys_sheet_115: -2103476817
+      supermariorpg_enemies-shyguys_sheet_39: -1523608288
+      supermariorpg_enemies-shyguys_sheet_22: 1766675020
+      supermariorpg_enemies-shyguys_sheet_123: 1782319013
+      supermariorpg_enemies-shyguys_sheet_127: -1847597943
+      supermariorpg_enemies-shyguys_sheet_30: 1273790864
+      supermariorpg_enemies-shyguys_sheet_37: -2071801247
+      supermariorpg_enemies-shyguys_sheet_112: 1510741743
+      supermariorpg_enemies-shyguys_sheet_77: -1741691551
+      supermariorpg_enemies-shyguys_sheet_29: -1880570986
+      supermariorpg_enemies-shyguys_sheet_121: 520469607
+      supermariorpg_enemies-shyguys_sheet_50: -637497956
+      supermariorpg_enemies-shyguys_sheet_90: -1556545339
+      supermariorpg_enemies-shyguys_sheet_72: -2060542026
+      supermariorpg_enemies-shyguys_sheet_7: 682264096
+      supermariorpg_enemies-shyguys_sheet_125: 216895174
+      supermariorpg_enemies-shyguys_sheet_4: -448173694
+      supermariorpg_enemies-shyguys_sheet_0: -1190881807
+      supermariorpg_enemies-shyguys_sheet_109: 1528364742
+      supermariorpg_enemies-shyguys_sheet_43: 1654549788
+      supermariorpg_enemies-shyguys_sheet_59: 2039990978
+      supermariorpg_enemies-shyguys_sheet_69: 2074058195
+      supermariorpg_enemies-shyguys_sheet_15: -1324347574
+      supermariorpg_enemies-shyguys_sheet_131: -1261476450
+      supermariorpg_enemies-shyguys_sheet_48: 958506028
+      supermariorpg_enemies-shyguys_sheet_80: -515119111
+      supermariorpg_enemies-shyguys_sheet_97: 1303682931
+      supermariorpg_enemies-shyguys_sheet_120: -833030331
+      supermariorpg_enemies-shyguys_sheet_108: 2027079210
+      supermariorpg_enemies-shyguys_sheet_92: -1387900684
+      supermariorpg_enemies-shyguys_sheet_114: 322589740
+      supermariorpg_enemies-shyguys_sheet_118: 578366710
+      supermariorpg_enemies-shyguys_sheet_96: 568758638
+      supermariorpg_enemies-shyguys_sheet_116: 523140322
+      supermariorpg_enemies-shyguys_sheet_5: -1256453051
+      supermariorpg_enemies-shyguys_sheet_122: 1273563278
+      supermariorpg_enemies-shyguys_sheet_62: -1013859506
+      supermariorpg_enemies-shyguys_sheet_129: -598032948
+      supermariorpg_enemies-shyguys_sheet_83: -1237915126
+      supermariorpg_enemies-shyguys_sheet_33: 1195303479
+      supermariorpg_enemies-shyguys_sheet_70: 153202234
+      supermariorpg_enemies-shyguys_sheet_19: 2116228812
+      supermariorpg_enemies-shyguys_sheet_27: 150568785
+      supermariorpg_enemies-shyguys_sheet_60: 32793765
+      supermariorpg_enemies-shyguys_sheet_79: -847001663
+      supermariorpg_enemies-shyguys_sheet_67: 1475692539
+      supermariorpg_enemies-shyguys_sheet_98: 642053995
+      supermariorpg_enemies-shyguys_sheet_47: 772931625
+      supermariorpg_enemies-shyguys_sheet_78: -580162383
+      supermariorpg_enemies-shyguys_sheet_68: -1158266952
+      supermariorpg_enemies-shyguys_sheet_35: -1280813558
+      supermariorpg_enemies-shyguys_sheet_106: -474836382
+      supermariorpg_enemies-shyguys_sheet_51: -51514583
+      supermariorpg_enemies-shyguys_sheet_107: -710195493
+      supermariorpg_enemies-shyguys_sheet_124: 1675623023
+      supermariorpg_enemies-shyguys_sheet_82: 609191984
+      supermariorpg_enemies-shyguys_sheet_105: 556314897
+      supermariorpg_enemies-shyguys_sheet_17: -665511359
+      supermariorpg_enemies-shyguys_sheet_103: 631454742
+      supermariorpg_enemies-shyguys_sheet_45: 1737422915
+      supermariorpg_enemies-shyguys_sheet_10: 997036708
+      supermariorpg_enemies-shyguys_sheet_119: -1269030968
+      supermariorpg_enemies-shyguys_sheet_24: 1263780585
+      supermariorpg_enemies-shyguys_sheet_52: 1962011317
+      supermariorpg_enemies-shyguys_sheet_20: -556742618
+      supermariorpg_enemies-shyguys_sheet_53: 1753837264
+      supermariorpg_enemies-shyguys_sheet_28: 1499424946
+      supermariorpg_enemies-shyguys_sheet_40: 154707369
+      supermariorpg_enemies-shyguys_sheet_110: -1964267704
+      supermariorpg_enemies-shyguys_sheet_75: 1870438544
+      supermariorpg_enemies-shyguys_sheet_84: 584241949
+      supermariorpg_enemies-shyguys_sheet_66: 524152089
+      supermariorpg_enemies-shyguys_sheet_3: -71875407
+      supermariorpg_enemies-shyguys_sheet_8: 585023829
+      supermariorpg_enemies-shyguys_sheet_16: 1961584666
+      supermariorpg_enemies-shyguys_sheet_81: 1244008589
+      supermariorpg_enemies-shyguys_sheet_104: 1909737653
+      supermariorpg_enemies-shyguys_sheet_85: 397705683
+      supermariorpg_enemies-shyguys_sheet_88: -717064441
+      supermariorpg_enemies-shyguys_sheet_99: -1364217807
+      supermariorpg_enemies-shyguys_sheet_132: -1769141506
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

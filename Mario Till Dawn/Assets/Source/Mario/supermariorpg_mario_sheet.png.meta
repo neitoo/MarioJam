@@ -1,0 +1,1366 @@
+fileFormatVersion: 2
+guid: fc2cb2206fdfae640b65a5a65db6a35b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e70a645f36adfa4eb10f317141b8fee
+      internalID: -1708178532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 308
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac9ba7eda4157f4da10e5b1a4227e16
+      internalID: 1838922262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 308
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d7a6ad5a9dfcd48b0e2ab6ab18f4b5
+      internalID: 153587888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 306
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8ed432b4285d7448be3d9e19874ba7
+      internalID: -465216196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 306
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b443106a340a47240980201bcdb00e57
+      internalID: 1884358464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 310
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97834ca270104fc4cbfd36d15998f8fb
+      internalID: 2132658267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 308
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c3e3ff91263bb45906d65fac668775
+      internalID: 1411019699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 308
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47abe2f17fd35b14aa1448d04765bfc9
+      internalID: -1994126131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 259
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ba0c9f83d30a944b79ae33782f79c0
+      internalID: -994910396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 259
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecd2c2d322748f49ac6937510c64617
+      internalID: -1707546218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 258
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802ef3fbbdc628340828808362f07ada
+      internalID: -156198003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 258
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088c8de7418e7d841976bbc4002dcc43
+      internalID: -1899317615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 259
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a183bd12bade1045aeb0e47d1ed5bf9
+      internalID: 207942989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 258
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65e38a591ab4fb4eb7c54fce9a71285
+      internalID: 627934483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 259
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf1548ef2d44d84b9dadb0bbeeb53db
+      internalID: 2111808721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 259
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f15647ff1cba64aa2dd92cef663ad2
+      internalID: 625366557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 209
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1498faa73dc714982d87e82c91b70d
+      internalID: -1567800677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 209
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca519d238510c64e9b3d7b4c8706317
+      internalID: -1426342942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 209
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7f8636696bf194e94cdfcc1f50f115
+      internalID: 376510468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 209
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a021bb9c0ff5e7a44b8b2aa9e5832838
+      internalID: 1487145272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 208
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be02fbbd13d4284ba1b9525142a90a5
+      internalID: -1216357584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 208
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd043d2337b8ca40babbaea95ffc77d
+      internalID: -1283700851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 209
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f7c79d452e0d54c9dd16a314535a1d
+      internalID: -1966683678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 209
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495a39ff2a3e4394d8f9b4afa76cc85f
+      internalID: -1745286147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 159
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2155d7f91f157e040991b86cb705c001
+      internalID: -906180104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 159
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c3f2a2c773ca64d8b28e7aee927531
+      internalID: 1959774339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 159
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7d6d49f385f0144b245fe536b1094a
+      internalID: -392820772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 158
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a503be7834262b4098c9ca889d1b96e
+      internalID: 348716644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 159
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757440450f1bda64c80910067b975a32
+      internalID: -527422464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 159
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dc22013c0ab3449a1f7eb225b626c6
+      internalID: 1738053230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 159
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5df56e3185f5b468c9323001377203
+      internalID: 1005000003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 158
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b905caee3f58134d90d8868d6b48f9f
+      internalID: -566840830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 109
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83e2b8aae1818744824cf1f2579706c
+      internalID: 1890045397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 109
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8315545a74a2e8f4d8071188b03b7234
+      internalID: 541494925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 109
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6549332eb30cb449e8b6a0ffdf0623
+      internalID: 834001575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 109
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc081b0215fb6de44b3eb347ac0918f6
+      internalID: 1738187062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 110
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2270c750d7e5fc54085830f500ac954f
+      internalID: 1911203807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 109
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbcf5f16955ad34a9d1eeba14d8e0e6
+      internalID: -201318402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 108
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ae3452436c77741a4d8dc36f30f5a4
+      internalID: 12515331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 108
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2f731de4d91824291a1f5dac059b41
+      internalID: -504647354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 60
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb9adc79e74f8d45a0d9bb7aae908e0
+      internalID: -399236720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 60
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98204d10f09bfe346b0fafad79c6f3b5
+      internalID: 1489315875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 60
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbba866926481f459af84c36b6f332e
+      internalID: 1237429898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 60
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78050215b21ca4c49bd981a8b7dc5078
+      internalID: 1160728718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 58
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad5fe9040c0a6a40992ba1f90d5723b
+      internalID: -1930745632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 59
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3e5d88c10e9cd489578505b710981d
+      internalID: 1776938144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 64
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c19e1513ea95b4584ba88b4f05f812
+      internalID: -1351982188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 61
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f1bf77bac5f8c44935f5613df01dd0
+      internalID: 1314083080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 9
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681ef05943b738c408e73904e34bd90d
+      internalID: -113862220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 10
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65a9cdd7dcffb14c94f4b8790c3c751
+      internalID: -188881250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 10
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a47b8edb10601478bc64ff73be4377
+      internalID: -1587407559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 10
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7df89b48fc4de840a7a580749cd339c
+      internalID: 2141772023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 9
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e303a01ba3c98304fa062e0b2192c797
+      internalID: -66797451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 9
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95d8f98e6b7f3a488ccd2bdb1eb9c66
+      internalID: -1823669754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aab252d2d0cea749bffac4cb2e623f7
+      internalID: -487178982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_mario_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 16
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ab0ecaa9c48574f8d0565d92ec01da
+      internalID: -1435762486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      supermariorpg_mario_sheet_1: 1838922262
+      supermariorpg_mario_sheet_22: -1966683678
+      supermariorpg_mario_sheet_45: 1776938144
+      supermariorpg_mario_sheet_49: -188881250
+      supermariorpg_mario_sheet_10: -156198003
+      supermariorpg_mario_sheet_55: -1435762486
+      supermariorpg_mario_sheet_14: 2111808721
+      supermariorpg_mario_sheet_18: 376510468
+      supermariorpg_mario_sheet_23: -1745286147
+      supermariorpg_mario_sheet_4: 1884358464
+      supermariorpg_mario_sheet_19: 1487145272
+      supermariorpg_mario_sheet_51: 2141772023
+      supermariorpg_mario_sheet_27: 348716644
+      supermariorpg_mario_sheet_34: 834001575
+      supermariorpg_mario_sheet_35: 1738187062
+      supermariorpg_mario_sheet_12: 207942989
+      supermariorpg_mario_sheet_36: 1911203807
+      supermariorpg_mario_sheet_40: -399236720
+      supermariorpg_mario_sheet_43: 1160728718
+      supermariorpg_mario_sheet_2: 153587888
+      supermariorpg_mario_sheet_24: -906180104
+      supermariorpg_mario_sheet_29: 1738053230
+      supermariorpg_mario_sheet_8: -994910396
+      supermariorpg_mario_sheet_44: -1930745632
+      supermariorpg_mario_sheet_50: -1587407559
+      supermariorpg_mario_sheet_37: -201318402
+      supermariorpg_mario_sheet_5: 2132658267
+      supermariorpg_mario_sheet_30: 1005000003
+      supermariorpg_mario_sheet_32: 1890045397
+      supermariorpg_mario_sheet_21: -1283700851
+      supermariorpg_mario_sheet_17: -1426342942
+      supermariorpg_mario_sheet_9: -1707546218
+      supermariorpg_mario_sheet_6: 1411019699
+      supermariorpg_mario_sheet_0: -1708178532
+      supermariorpg_mario_sheet_11: -1899317615
+      supermariorpg_mario_sheet_7: -1994126131
+      supermariorpg_mario_sheet_13: 627934483
+      supermariorpg_mario_sheet_25: 1959774339
+      supermariorpg_mario_sheet_39: -504647354
+      supermariorpg_mario_sheet_48: -113862220
+      supermariorpg_mario_sheet_41: 1489315875
+      supermariorpg_mario_sheet_54: -487178982
+      supermariorpg_mario_sheet_20: -1216357584
+      supermariorpg_mario_sheet_52: -66797451
+      supermariorpg_mario_sheet_26: -392820772
+      supermariorpg_mario_sheet_53: -1823669754
+      supermariorpg_mario_sheet_31: -566840830
+      supermariorpg_mario_sheet_33: 541494925
+      supermariorpg_mario_sheet_16: -1567800677
+      supermariorpg_mario_sheet_46: -1351982188
+      supermariorpg_mario_sheet_38: 12515331
+      supermariorpg_mario_sheet_28: -527422464
+      supermariorpg_mario_sheet_3: -465216196
+      supermariorpg_mario_sheet_15: 625366557
+      supermariorpg_mario_sheet_42: 1237429898
+      supermariorpg_mario_sheet_47: 1314083080
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

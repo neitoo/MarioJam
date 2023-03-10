@@ -1,0 +1,1608 @@
+fileFormatVersion: 2
+guid: 4405d49d2f77c5e4dbf4732932bd5649
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a3ab463e3c44347ad34ebbc9b029ed
+      internalID: 57160007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 273
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842211c02fd26f943b019ce4a427e3b9
+      internalID: 326689895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 275
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404667e50c1d74b4bb10d1538a487f2f
+      internalID: 1140032891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 274
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c99af9fb0e96d4096d32f8dd631ae1
+      internalID: 1076858616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 275
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028d37ffd59ffe34087a489b6b954aae
+      internalID: -1054418381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 276
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d67d6f0bfbc738499cb86a4ac10bbfc
+      internalID: 814825343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 270
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ef9c03afb3cf64a841530c5d4f8092
+      internalID: 1247632796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 276
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e248377f334f5d544999e55cf749765d
+      internalID: 895251534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 275
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dced114a187917479209a5015469b3e
+      internalID: -1809292631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcea3c5993aa3641b503870afbd821f
+      internalID: -985711045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 233
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e637d8110bc104bbd6445acd45ba66
+      internalID: -1665979570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 235
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce0d8f1dc9d41b45bf9b7cd3823a29c
+      internalID: -1236500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 233
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5906f948493384698cefd36c7b2fef
+      internalID: 1773730291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 236
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3858b07d52d8b4da7d01d5af48128d
+      internalID: 767564657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 234
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3118da461acfa4f8d0c1456a940f08
+      internalID: -2051266967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 228
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae21fff191823744a4d07c7ec532cc9
+      internalID: 110916929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 234
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad01b269063285f439a7bcd560a437e1
+      internalID: -1157501181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 233
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a18d523d53ce84899980ba2eba62c7
+      internalID: -164865586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 197
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2701fee49cdb6a441a84cf5893960f38
+      internalID: -405392521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 194
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c404cd20679774a40bd60d8433a28113
+      internalID: -1713439783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 196
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e521059d7fdf484aa8429528d066e35
+      internalID: 254410858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 193
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc158b14d19d4c459895d7718f2891b
+      internalID: 845789650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 155
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e82a55b51fde143b00deebb2271bf7
+      internalID: 656452941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 156
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e556420530a682c499a03e9a6cf99586
+      internalID: 1029469182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 156
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f888ce49587c65641bfeea5daffed30c
+      internalID: -1720919735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 155
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e084e4317b45ef443904db35de5f3719
+      internalID: -757024405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 156
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02af3da018e47854c8401baec9a83231
+      internalID: 1419549489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 156
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ada671cadb8ed47a9f2ee779a41aba
+      internalID: -973576347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 155
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a90ac98f50dc9345b70f5c6d63109a5
+      internalID: 306368896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 156
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19721e088b992143acead7eb0c23289
+      internalID: 1572283591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 156
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3433fcaef3ab17147b3ec9374ef621b1
+      internalID: -1482930073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 116
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11cda971fbade2409b15c0359f358e5
+      internalID: -2085758345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 116
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7577148ce906d9e4bb1d91b75ce8e794
+      internalID: -2061758841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 115
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c233ec402de503549b155505468adf83
+      internalID: -603963897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 116
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dfb28acfaf6cc41b84fe2ea5ba74e2
+      internalID: -593156122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 116
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a04b78b5a1b824986a302b38bfef73
+      internalID: -1553905042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 115
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10300cc0ba149b84584cac0273a64f0b
+      internalID: 531144408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 116
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34eeea4bf1f0bf34caf524eca7e032cc
+      internalID: -565186594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 116
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0e414ba0465cb4b82619de66533958
+      internalID: -86518176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 115
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdef562a45319c4a99c53bd05c3fece
+      internalID: -444348150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 77
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d42e871418c1440bd65dd1615a36c9
+      internalID: 1242671018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 76
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6b903775d3d394b8fb432463be10bf
+      internalID: -54818529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 75
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b43bb3824a8ddb4eb7f04db723128e6
+      internalID: 881235944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 77
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ea414d0a2de1e44b7b520905b08865
+      internalID: 1939958745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 76
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489e452a51c28184a8e6633aaa51660a
+      internalID: -2056188463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 75
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dea42863fe010048a6de27c0148dff8
+      internalID: 316434870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 77
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8855fc9fbd2f744689c2ae5b423fd24
+      internalID: -1776441896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 76
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537ac56b0bf834846975f321586b965e
+      internalID: -1192011814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 75
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e0e35658663f443b09fcdaaf7efa7c
+      internalID: 304992323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 40
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f261e7f9f8ffa64ca40b21676fa6c97
+      internalID: -1191294007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 39
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03bd39bf186db14b95eacb965d17bbe
+      internalID: -210366439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 42
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7a620f14ec62644ae423357fa2f249
+      internalID: 429746094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 36
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1597e26654c6536499c33537451c8f7c
+      internalID: 315649849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 40
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7bbd8175d551847a09d3fcf73b7b32
+      internalID: 1697533795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 39
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872e97cdff77b90408dbd21640eca0c8
+      internalID: 731422715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 42
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9215ec716768a54590cef559e28a409
+      internalID: 1401711091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 36
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0ea8cbd46165d409feaaada1679cc9
+      internalID: -1960454276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 40
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef85eb41e02f5f4a96e2694ead0ac2a
+      internalID: -2039285240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 39
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5d992c2ed7d7846a326042cdbfa757
+      internalID: 961885088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 42
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c29e12c808fcb544b1d772c7b284c75
+      internalID: 826385744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 36
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba77965d12c70e40bfefacc1c8a4510
+      internalID: -564111997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471f060ccc4f3724090ae1966f2dcf2e
+      internalID: -664025266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afcd99f7a744ef40b3c14a58166ecd2
+      internalID: 614118250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b197a98081df1248a8d866f7a3bb35d
+      internalID: -1954828938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b0b3c5da227964e842dcd5bb47da25
+      internalID: 638583958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1ff3e81df26fc468f6c46ad3bb3dfa
+      internalID: -1288260912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_enemies-lakituandspiny_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9c9d13ce7f1f344806f0a912b25d83
+      internalID: -1366355634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      supermariorpg_enemies-lakituandspiny_sheet_16: -1157501181
+      supermariorpg_enemies-lakituandspiny_sheet_24: -1720919735
+      supermariorpg_enemies-lakituandspiny_sheet_28: 306368896
+      supermariorpg_enemies-lakituandspiny_sheet_57: -2039285240
+      supermariorpg_enemies-lakituandspiny_sheet_18: -405392521
+      supermariorpg_enemies-lakituandspiny_sheet_27: -973576347
+      supermariorpg_enemies-lakituandspiny_sheet_36: 531144408
+      supermariorpg_enemies-lakituandspiny_sheet_30: -1482930073
+      supermariorpg_enemies-lakituandspiny_sheet_2: 1140032891
+      supermariorpg_enemies-lakituandspiny_sheet_31: -2085758345
+      supermariorpg_enemies-lakituandspiny_sheet_4: -1054418381
+      supermariorpg_enemies-lakituandspiny_sheet_3: 1076858616
+      supermariorpg_enemies-lakituandspiny_sheet_0: 57160007
+      supermariorpg_enemies-lakituandspiny_sheet_13: 767564657
+      supermariorpg_enemies-lakituandspiny_sheet_6: 1247632796
+      supermariorpg_enemies-lakituandspiny_sheet_33: -603963897
+      supermariorpg_enemies-lakituandspiny_sheet_29: 1572283591
+      supermariorpg_enemies-lakituandspiny_sheet_23: 1029469182
+      supermariorpg_enemies-lakituandspiny_sheet_41: -54818529
+      supermariorpg_enemies-lakituandspiny_sheet_52: 315649849
+      supermariorpg_enemies-lakituandspiny_sheet_51: 429746094
+      supermariorpg_enemies-lakituandspiny_sheet_45: 316434870
+      supermariorpg_enemies-lakituandspiny_sheet_50: -210366439
+      supermariorpg_enemies-lakituandspiny_sheet_11: -1236500
+      supermariorpg_enemies-lakituandspiny_sheet_40: 1242671018
+      supermariorpg_enemies-lakituandspiny_sheet_66: -1366355634
+      supermariorpg_enemies-lakituandspiny_sheet_49: -1191294007
+      supermariorpg_enemies-lakituandspiny_sheet_65: -1288260912
+      supermariorpg_enemies-lakituandspiny_sheet_14: -2051266967
+      supermariorpg_enemies-lakituandspiny_sheet_9: -985711045
+      supermariorpg_enemies-lakituandspiny_sheet_5: 814825343
+      supermariorpg_enemies-lakituandspiny_sheet_46: -1776441896
+      supermariorpg_enemies-lakituandspiny_sheet_7: 895251534
+      supermariorpg_enemies-lakituandspiny_sheet_43: 1939958745
+      supermariorpg_enemies-lakituandspiny_sheet_15: 110916929
+      supermariorpg_enemies-lakituandspiny_sheet_59: 826385744
+      supermariorpg_enemies-lakituandspiny_sheet_35: -1553905042
+      supermariorpg_enemies-lakituandspiny_sheet_25: -757024405
+      supermariorpg_enemies-lakituandspiny_sheet_60: -564111997
+      supermariorpg_enemies-lakituandspiny_sheet_38: -86518176
+      supermariorpg_enemies-lakituandspiny_sheet_53: 1697533795
+      supermariorpg_enemies-lakituandspiny_sheet_54: 731422715
+      supermariorpg_enemies-lakituandspiny_sheet_64: 638583958
+      supermariorpg_enemies-lakituandspiny_sheet_55: 1401711091
+      supermariorpg_enemies-lakituandspiny_sheet_37: -565186594
+      supermariorpg_enemies-lakituandspiny_sheet_32: -2061758841
+      supermariorpg_enemies-lakituandspiny_sheet_44: -2056188463
+      supermariorpg_enemies-lakituandspiny_sheet_58: 961885088
+      supermariorpg_enemies-lakituandspiny_sheet_62: 614118250
+      supermariorpg_enemies-lakituandspiny_sheet_39: -444348150
+      supermariorpg_enemies-lakituandspiny_sheet_48: 304992323
+      supermariorpg_enemies-lakituandspiny_sheet_8: -1809292631
+      supermariorpg_enemies-lakituandspiny_sheet_19: -1713439783
+      supermariorpg_enemies-lakituandspiny_sheet_47: -1192011814
+      supermariorpg_enemies-lakituandspiny_sheet_1: 326689895
+      supermariorpg_enemies-lakituandspiny_sheet_63: -1954828938
+      supermariorpg_enemies-lakituandspiny_sheet_61: -664025266
+      supermariorpg_enemies-lakituandspiny_sheet_42: 881235944
+      supermariorpg_enemies-lakituandspiny_sheet_10: -1665979570
+      supermariorpg_enemies-lakituandspiny_sheet_21: 845789650
+      supermariorpg_enemies-lakituandspiny_sheet_20: 254410858
+      supermariorpg_enemies-lakituandspiny_sheet_12: 1773730291
+      supermariorpg_enemies-lakituandspiny_sheet_34: -593156122
+      supermariorpg_enemies-lakituandspiny_sheet_17: -164865586
+      supermariorpg_enemies-lakituandspiny_sheet_22: 656452941
+      supermariorpg_enemies-lakituandspiny_sheet_26: 1419549489
+      supermariorpg_enemies-lakituandspiny_sheet_56: -1960454276
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

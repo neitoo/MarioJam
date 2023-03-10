@@ -1,0 +1,1498 @@
+fileFormatVersion: 2
+guid: 34fd04bd1102d434c956908d6f345686
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 369
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9dce2a17a8c184cb40d1b0b08d9a5c
+      internalID: 105848923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 369
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e375c08b3e289b7498bc5b821737bfcd
+      internalID: -2138855911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 368
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f13d498bd56e1b4c8b366b0bdb48578
+      internalID: 520541707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 369
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9d99962a0a7754fa4c045f199f7d1e
+      internalID: 1940895388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 371
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cb888c229ec35479b0842abb3ba0c0
+      internalID: -1412752077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 370
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1977e55a13800df429a1b23fb383a5d1
+      internalID: 135657645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 360
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309c59bf0ecd9a34c820efd827e1b789
+      internalID: -410907303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 361
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775f21dc6e6376d489d3b1eb0776a2e4
+      internalID: -675345747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 361
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24418f2903ebe34a93c586a825b24e8
+      internalID: -1870748153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 310
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3795d645350e3614d946a4c218a725d8
+      internalID: 2129030548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 311
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfd1e8b3a3da764384a72efb6d5ad85
+      internalID: 680482799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 310
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcfa7e408f642c4e8504b2e2c686dba
+      internalID: 806648208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 311
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2738ac37ee07ebf4a8ceeb522748cf77
+      internalID: -1445964876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 310
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c013c11036e6b4943abfb4b4737d7316
+      internalID: 1934704295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 310
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b6b993b1ea2fa46b5aede6b5a79403
+      internalID: -806650963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 310
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a210293cd68ef234682a14c7d7783df1
+      internalID: -2103652676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 311
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42773bb5a1f3f324abf8c442f9b4cb92
+      internalID: 304721091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 311
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d9432fddcfb964d9aafd7338c930d3
+      internalID: -781852785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 260
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae56a06de39e789429e93ed6ae145d3b
+      internalID: 985039436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 260
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64fed61993441c4899ad65e7731aa86
+      internalID: 1461096799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 259
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddea9f6675c93a43bcf733a20a8e0b2
+      internalID: 814860072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 260
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6a488df56a472488149ce4d389ffb0
+      internalID: -207819403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 263
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfc013329c3c9a47b604524226343f0
+      internalID: -1266902490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 263
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c38bb4d213f41f45ad3aa920f2322fb
+      internalID: -318628865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 262
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6539b10cead0ff47b10e8080c197d9b
+      internalID: -1885907952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 268
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89f56bee0358e54ca6ffe803294fa08
+      internalID: 1091463112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 287
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe3669f247d5ab4b975b98b29c03fdc
+      internalID: -2079915375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 255
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf39ddee1384734b9bd6fbdf854b74e
+      internalID: 1858063444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 207
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2655a81b233f9f3479849437c5b89eb1
+      internalID: -1605801361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 208
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6353426a86861264aa4ead1b2dee368d
+      internalID: 1093571638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 206
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc2e597b0b101b4aaefb2c6fac1cc80
+      internalID: -472815598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 186
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab44117f1e61c24badb7cdd2b426942
+      internalID: -128458789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 188
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105814c8b636da54abdbd2085081ec10
+      internalID: -187088127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 190
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bea8b59ecb044b4a84d97ae2fd2c2c9
+      internalID: 659330391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 195
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a0bbc2c3561c64f9ff390c4389870e
+      internalID: 1084556408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 150
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8737fc8bad5a244488f363a0a55b7b59
+      internalID: 215553904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 150
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b011f94aa8e6b4985ec697a4c0a92e
+      internalID: -1767266677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 151
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6092781a09c3b847afd9643a0b17e6f
+      internalID: -585127040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 150
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4806405da126ee4f9501d784eeb5468
+      internalID: -617117848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c48d96086a3b64984500355565b227
+      internalID: 1103038213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 97
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a275da91e914bf428bd103cbd17cf90
+      internalID: -1074532062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 97
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45308f6399ecc354da305d85c6a28e2f
+      internalID: 1422369640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 102
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018bd92c767f41a4885a6b12f6ab2c79
+      internalID: 832251016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 101
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8126d7ad4ea6ef45814e75b8595b442
+      internalID: -1344140337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 101
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859f2ea2f40464d469cd4e2d64310509
+      internalID: -90872833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 101
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1e7fbd26ba66c4485a3c433e0688e2
+      internalID: -1021328435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 100
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5e5b8839c233346a54c89d61730410
+      internalID: -45109737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 51
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9218017c5480ed74fa4c3aa696ff86d8
+      internalID: -1346841382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 51
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b479ecc1c4336174db8e4da83f994ef7
+      internalID: -510744159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 51
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8003180f0ee08c44abf81f8c45ccc064
+      internalID: 566377086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 51
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5ff71933d91974da8b3beb1f99f5da
+      internalID: -2059917351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 51
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cdce314b5b60f4d9dbb104579398c0
+      internalID: 1242217252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 51
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b02c0c8b2e4cd4c8cfd43b8bf4943b
+      internalID: 42272734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 51
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e97ef378f25ef240aa7bc7a86e1363d
+      internalID: -1797883917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 46
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d8e4a281e218b4a8d7c73544cc7427
+      internalID: -153477636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad764c675b51394dae285f5a15c923a
+      internalID: 1568872374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5da31ecacb3bb84c9aea13d0d808e27
+      internalID: 455190084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146629e631278b84cb827a055e994259
+      internalID: 1433094743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 3
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5e5f8a89e801d41b65bc1d3d387201
+      internalID: -1268708259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9115051c85f182c4f9974229f226187e
+      internalID: 1234694273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 4
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1376d709c630df42b03b692855064d4
+      internalID: -735941000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermariorpg_bowser_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc808f17f02566439c398b2a37d3982
+      internalID: -1297961665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      supermariorpg_bowser_sheet_35: 215553904
+      supermariorpg_bowser_sheet_53: -1797883917
+      supermariorpg_bowser_sheet_32: -187088127
+      supermariorpg_bowser_sheet_1: -2138855911
+      supermariorpg_bowser_sheet_12: -1445964876
+      supermariorpg_bowser_sheet_5: 135657645
+      supermariorpg_bowser_sheet_43: -1344140337
+      supermariorpg_bowser_sheet_31: -128458789
+      supermariorpg_bowser_sheet_51: 1242217252
+      supermariorpg_bowser_sheet_48: -510744159
+      supermariorpg_bowser_sheet_22: -1266902490
+      supermariorpg_bowser_sheet_19: 1461096799
+      supermariorpg_bowser_sheet_46: -45109737
+      supermariorpg_bowser_sheet_2: 520541707
+      supermariorpg_bowser_sheet_34: 1084556408
+      supermariorpg_bowser_sheet_59: 1234694273
+      supermariorpg_bowser_sheet_38: -617117848
+      supermariorpg_bowser_sheet_54: -153477636
+      supermariorpg_bowser_sheet_9: 2129030548
+      supermariorpg_bowser_sheet_45: -1021328435
+      supermariorpg_bowser_sheet_36: -1767266677
+      supermariorpg_bowser_sheet_41: 1422369640
+      supermariorpg_bowser_sheet_6: -410907303
+      supermariorpg_bowser_sheet_17: -781852785
+      supermariorpg_bowser_sheet_13: 1934704295
+      supermariorpg_bowser_sheet_40: -1074532062
+      supermariorpg_bowser_sheet_60: -735941000
+      supermariorpg_bowser_sheet_44: -90872833
+      supermariorpg_bowser_sheet_24: -1885907952
+      supermariorpg_bowser_sheet_11: 806648208
+      supermariorpg_bowser_sheet_52: 42272734
+      supermariorpg_bowser_sheet_25: 1091463112
+      supermariorpg_bowser_sheet_37: -585127040
+      supermariorpg_bowser_sheet_33: 659330391
+      supermariorpg_bowser_sheet_42: 832251016
+      supermariorpg_bowser_sheet_30: -472815598
+      supermariorpg_bowser_sheet_27: 1858063444
+      supermariorpg_bowser_sheet_21: -207819403
+      supermariorpg_bowser_sheet_49: 566377086
+      supermariorpg_bowser_sheet_16: 304721091
+      supermariorpg_bowser_sheet_14: -806650963
+      supermariorpg_bowser_sheet_4: -1412752077
+      supermariorpg_bowser_sheet_7: -675345747
+      supermariorpg_bowser_sheet_18: 985039436
+      supermariorpg_bowser_sheet_47: -1346841382
+      supermariorpg_bowser_sheet_56: 455190084
+      supermariorpg_bowser_sheet_58: -1268708259
+      supermariorpg_bowser_sheet_15: -2103652676
+      supermariorpg_bowser_sheet_55: 1568872374
+      supermariorpg_bowser_sheet_26: -2079915375
+      supermariorpg_bowser_sheet_57: 1433094743
+      supermariorpg_bowser_sheet_28: -1605801361
+      supermariorpg_bowser_sheet_23: -318628865
+      supermariorpg_bowser_sheet_29: 1093571638
+      supermariorpg_bowser_sheet_39: 1103038213
+      supermariorpg_bowser_sheet_0: 105848923
+      supermariorpg_bowser_sheet_61: -1297961665
+      supermariorpg_bowser_sheet_20: 814860072
+      supermariorpg_bowser_sheet_10: 680482799
+      supermariorpg_bowser_sheet_50: -2059917351
+      supermariorpg_bowser_sheet_3: 1940895388
+      supermariorpg_bowser_sheet_8: -1870748153
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
