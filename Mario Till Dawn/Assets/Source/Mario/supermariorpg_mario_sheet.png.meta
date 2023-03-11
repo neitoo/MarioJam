@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 30
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -69,7 +69,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -1304,13 +1304,12 @@ TextureImporter:
     nameFileIdTable:
       supermariorpg_mario_sheet_1: 1838922262
       supermariorpg_mario_sheet_22: -1966683678
-      supermariorpg_mario_sheet_45: 1776938144
       supermariorpg_mario_sheet_49: -188881250
       supermariorpg_mario_sheet_10: -156198003
       supermariorpg_mario_sheet_55: -1435762486
       supermariorpg_mario_sheet_14: 2111808721
-      supermariorpg_mario_sheet_18: 376510468
       supermariorpg_mario_sheet_23: -1745286147
+      supermariorpg_mario_sheet_18: 376510468
       supermariorpg_mario_sheet_4: 1884358464
       supermariorpg_mario_sheet_19: 1487145272
       supermariorpg_mario_sheet_51: 2141772023
@@ -1327,6 +1326,7 @@ TextureImporter:
       supermariorpg_mario_sheet_8: -994910396
       supermariorpg_mario_sheet_44: -1930745632
       supermariorpg_mario_sheet_50: -1587407559
+      supermariorpg_mario_sheet_45: 1776938144
       supermariorpg_mario_sheet_37: -201318402
       supermariorpg_mario_sheet_5: 2132658267
       supermariorpg_mario_sheet_30: 1005000003
@@ -1334,20 +1334,20 @@ TextureImporter:
       supermariorpg_mario_sheet_21: -1283700851
       supermariorpg_mario_sheet_17: -1426342942
       supermariorpg_mario_sheet_9: -1707546218
-      supermariorpg_mario_sheet_6: 1411019699
-      supermariorpg_mario_sheet_0: -1708178532
       supermariorpg_mario_sheet_11: -1899317615
-      supermariorpg_mario_sheet_7: -1994126131
-      supermariorpg_mario_sheet_13: 627934483
+      supermariorpg_mario_sheet_0: -1708178532
       supermariorpg_mario_sheet_25: 1959774339
-      supermariorpg_mario_sheet_39: -504647354
-      supermariorpg_mario_sheet_48: -113862220
-      supermariorpg_mario_sheet_41: 1489315875
+      supermariorpg_mario_sheet_6: 1411019699
       supermariorpg_mario_sheet_54: -487178982
+      supermariorpg_mario_sheet_41: 1489315875
+      supermariorpg_mario_sheet_13: 627934483
+      supermariorpg_mario_sheet_48: -113862220
+      supermariorpg_mario_sheet_53: -1823669754
+      supermariorpg_mario_sheet_39: -504647354
+      supermariorpg_mario_sheet_7: -1994126131
       supermariorpg_mario_sheet_20: -1216357584
       supermariorpg_mario_sheet_52: -66797451
       supermariorpg_mario_sheet_26: -392820772
-      supermariorpg_mario_sheet_53: -1823669754
       supermariorpg_mario_sheet_31: -566840830
       supermariorpg_mario_sheet_33: 541494925
       supermariorpg_mario_sheet_16: -1567800677
