@@ -16,7 +16,7 @@ public class PlayerController : MonoBehaviour
     public Sprite fullHeart;
     public Sprite emptyHeart;
 
-    //жизни
+    
     private void Health()
     {
         if (health > numOfHearts)
