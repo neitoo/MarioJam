@@ -23,6 +23,7 @@ public class PlayerController : MonoBehaviour
         {
             health = numOfHearts; ;
         }
+        //определяется когда полное сердце, когда нет
         for (int i = 0; i < hearts.Length; i++)
         {
             if (i < Mathf.RoundToInt(health))
@@ -33,6 +34,7 @@ public class PlayerController : MonoBehaviour
             {
                 hearts[i].sprite = emptyHeart;
             }
+            //если захотим поменять кол.во сердец
             if(i < numOfHearts)
             {
                 hearts[i].enabled = true;
