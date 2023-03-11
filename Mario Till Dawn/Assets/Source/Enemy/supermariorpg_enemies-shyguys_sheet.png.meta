@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 30
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -69,7 +69,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -2980,10 +2980,10 @@ TextureImporter:
       supermariorpg_enemies-shyguys_sheet_6: -804782992
       supermariorpg_enemies-shyguys_sheet_111: -1741790319
       supermariorpg_enemies-shyguys_sheet_76: -1882655966
-      supermariorpg_enemies-shyguys_sheet_89: -1098394988
       supermariorpg_enemies-shyguys_sheet_93: -613329125
-      supermariorpg_enemies-shyguys_sheet_42: -13210384
       supermariorpg_enemies-shyguys_sheet_128: -405768217
+      supermariorpg_enemies-shyguys_sheet_89: -1098394988
+      supermariorpg_enemies-shyguys_sheet_42: -13210384
       supermariorpg_enemies-shyguys_sheet_14: 992378088
       supermariorpg_enemies-shyguys_sheet_102: -1009915581
       supermariorpg_enemies-shyguys_sheet_41: -1284524874

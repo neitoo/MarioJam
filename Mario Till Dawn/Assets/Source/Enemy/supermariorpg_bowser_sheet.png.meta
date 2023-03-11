@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 20
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -1460,9 +1460,9 @@ TextureImporter:
       supermariorpg_bowser_sheet_11: 806648208
       supermariorpg_bowser_sheet_52: 42272734
       supermariorpg_bowser_sheet_25: 1091463112
-      supermariorpg_bowser_sheet_37: -585127040
       supermariorpg_bowser_sheet_33: 659330391
       supermariorpg_bowser_sheet_42: 832251016
+      supermariorpg_bowser_sheet_37: -585127040
       supermariorpg_bowser_sheet_30: -472815598
       supermariorpg_bowser_sheet_27: 1858063444
       supermariorpg_bowser_sheet_21: -207819403
