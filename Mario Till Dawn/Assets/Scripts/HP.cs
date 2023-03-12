@@ -28,13 +28,13 @@ public class HP : MonoBehaviour
     {
         if (hp <= 0)
         {
-            // Сохраняем время 
-            PlayerPrefs.SetFloat("RemainingTime", FindObjectOfType<Timer>().timeRemaining);
+            // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ 
+            PlayerPrefs.SetFloat("RemainingTime", FindObjectOfType<Timer>().elapsedTime);
             PlayerPrefs.SetInt("RemainingHp", hp/*score*/);
 
             SceneManager.LoadScene("GameOver");
 
-            // Остановка таймера
+            // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
             Timer timer = FindObjectOfType<Timer>();
             timer.enabled = false;
         }
