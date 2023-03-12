@@ -5,9 +5,9 @@ using UnityEngine;
 public class EnemySpawn : MonoBehaviour
 {
     public GameObject botPrefab;
-    public float spawnRadius = 10f;
-    public float spawnDelay = 3f;
-    public int maxBots = 20;
+    public float spawnRadius = 11f;
+    public float spawnDelay = 1f;
+    public int maxBots = 100;
 
     private List<GameObject> bots = new List<GameObject>();
 
