@@ -72,7 +72,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 2
+  m_SortingOrder: 3
   m_Sprite: {fileID: 730890440, guid: 895530546574ee8439489639a28eadd7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -134,7 +134,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 5
   checkRadius: 100
-  attackRadius: 1
+  attackRadius: 1.5
   shouldRotate: 1
   whatIsPlayer:
     serializedVersion: 2
@@ -172,7 +172,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 2
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 0
