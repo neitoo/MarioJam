@@ -50,7 +50,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 5
   checkRadius: 100
-  attackRadius: 0
+  attackRadius: 0.37
   shouldRotate: 1
   whatIsPlayer:
     serializedVersion: 2
@@ -110,9 +110,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.036980867, y: -0.13894093}
+  m_Offset: {x: 0.03698069, y: -0.16174382}
   serializedVersion: 2
-  m_Radius: 0.7156193
+  m_Radius: 0.4115811
 --- !u!1 &4262711030585220417
 GameObject:
   m_ObjectHideFlags: 0
