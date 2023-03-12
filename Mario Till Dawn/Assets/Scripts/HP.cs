@@ -11,6 +11,7 @@ public class HP : MonoBehaviour
     public Text hpt;
     public int damage;
     public float timeRemaining = 20 * 60;
+    public AudioSource audioSource;
 
     void Start()
     {
@@ -21,6 +22,7 @@ public class HP : MonoBehaviour
     {
         if (collision.gameObject.tag == "Enemy")
         {
+            audioSource.Play();
             hp = hp - damage;
             hpt.text = "Hp " + hp.ToString();
         }
