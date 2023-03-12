@@ -8,6 +8,7 @@ public class Timer : MonoBehaviour
 {
     public float timeRemaining = 20 * 60; 
     public Text timerText;
+    public GameObject objDestr;
 
     void Update()
     {
@@ -25,6 +26,7 @@ public class Timer : MonoBehaviour
         {
             timeRemaining = 0;
             timerText.text = "00:00";
+            Destroy(objDestr);
         }
         
     }
