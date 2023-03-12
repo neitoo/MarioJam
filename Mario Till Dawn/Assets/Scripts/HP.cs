@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using UnityEngine.SocialPlatforms.Impl;
 
 public class HP : MonoBehaviour
 {
@@ -18,7 +19,7 @@ public class HP : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.gameObject.tag == "Enemy")
+        if (collision.gameObject.tag == "Enemy")
         {
             hp = hp - damage;
             hpt.text = "Hp " + hp.ToString();
@@ -28,13 +29,13 @@ public class HP : MonoBehaviour
     {
         if (hp <= 0)
         {
-            // Сохраняем время 
-            PlayerPrefs.SetFloat("RemainingTime", FindObjectOfType<Timer>().timeRemaining);
-            PlayerPrefs.SetInt("RemainingHp", hp/*score*/);
+            // 
+            PlayerPrefs.SetFloat("RemainingTime", FindObjectOfType<Timer>().elapsedTime);
+            PlayerPrefs.SetInt("RemainingHp", hp /* score */);
 
             SceneManager.LoadScene("GameOver");
 
-            // Остановка таймера
+            // 
             Timer timer = FindObjectOfType<Timer>();
             timer.enabled = false;
         }
