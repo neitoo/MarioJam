@@ -7,14 +7,26 @@ using UnityEngine.SceneManagement;
 public class SceneLoader : MonoBehaviour
 {
     public Text timeText;
-    public void Start()
+    public Text hpText;
+    public float saveTime = 0f;
+    void Awake()
     {
-        // Получить сохраненное время
-        float remainingTime = PlayerPrefs.GetFloat("RemainingTime");
-
-        // Отобразить время на экране
-        int minutes = Mathf.FloorToInt(remainingTime / 60f);
-        int seconds = Mathf.FloorToInt(remainingTime % 60f);
+        saveTime = PlayerPrefs.GetFloat("RemainingTime");
+    }
+    void Start()
+    {
+        float saveTime = PlayerPrefs.GetFloat("RemainingTime");
+        int minutes = Mathf.FloorToInt(saveTime / 60f);
+        int seconds = Mathf.FloorToInt(saveTime % 60f);
         timeText.text = string.Format("Time: {0:00}:{1:00}", minutes, seconds);
+        //на будущее
+        int saveScore = PlayerPrefs.GetInt("RemainingHp");
+        hpText.text = "Score: " + saveScore.ToString();
+    }
+
+    public void OnClick()
+    {
+        PlayerPrefs.SetFloat("RemainingTime", 0f);
+        SceneManager.LoadScene("MainScene");
     }
 }
