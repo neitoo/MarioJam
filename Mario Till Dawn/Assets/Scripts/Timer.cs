@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class Timer : MonoBehaviour
@@ -25,5 +26,7 @@ public class Timer : MonoBehaviour
             timeRemaining = 0;
             timerText.text = "00:00";
         }
+        
     }
+   
 }
