@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 public class SceneLoader : MonoBehaviour
 {
     public Text timeText;
-    void Start()
+    public void Start()
     {
         // Получить сохраненное время
         float remainingTime = PlayerPrefs.GetFloat("RemainingTime");
