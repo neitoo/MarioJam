@@ -9,13 +9,17 @@ public class HP : MonoBehaviour
 {
     public int hp;
     public Text hpt;
+    public Text timeText;
+    public GameObject deadMenu;
     public int damage;
-    public float timeRemaining = 20 * 60;
+    private Timer timer;
     public AudioSource audioSource;
 
     void Start()
     {
+        timer = FindObjectOfType<Timer>();
         hpt.text = "Hp " + hp.ToString();
+        Time.timeScale = 1f;
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -31,15 +35,14 @@ public class HP : MonoBehaviour
     {
         if (hp <= 0)
         {
-            // 
-            PlayerPrefs.SetFloat("RemainingTime", FindObjectOfType<Timer>().elapsedTime);
-            PlayerPrefs.SetInt("RemainingHp", hp /* score */);
-
-            SceneManager.LoadScene("GameOver");
-
-            // 
-            Timer timer = FindObjectOfType<Timer>();
+            Time.timeScale = 0f;
+            deadMenu.SetActive(true);
             timer.enabled = false;
+            float saveTime = timer.elapsedTime;
+            int minutes = Mathf.FloorToInt(saveTime / 60f);
+            int seconds = Mathf.FloorToInt(saveTime % 60f);
+            timeText.text = string.Format("Time: {0:00}:{1:00}", minutes, seconds);
+            
         }
 
     }
