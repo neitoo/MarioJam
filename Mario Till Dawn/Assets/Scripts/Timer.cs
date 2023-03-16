@@ -14,7 +14,6 @@ public class Timer : MonoBehaviour
 
     void Start()
     {
-        ModeScript modeScript = GameObject.FindObjectOfType<ModeScript>();
         if (!ModeScript.isBeginner)
         {
             timeRemaining = 1200f;

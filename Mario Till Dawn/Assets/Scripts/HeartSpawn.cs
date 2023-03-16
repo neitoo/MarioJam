@@ -6,13 +6,21 @@ public class HeartSpawn : MonoBehaviour
 {
     public GameObject prefab;
     private float radius = 40f;
-    public float spawnInterval;
+    private float spawnInterval;
     private int maxSpawnCount = 2;
     private int spawnCount;
     private float lastSpawnTime;
 
     private void Start()
     {
+        if (!ModeScript.isBeginner)
+        {
+            spawnInterval = 300f;
+        }
+        else
+        {
+            spawnInterval = 30f;
+        }
         StartCoroutine(SpawnPrefab());
     }
 
