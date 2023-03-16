@@ -6,11 +6,24 @@ using UnityEngine.UI;
 
 public class Timer : MonoBehaviour
 {
-    public float timeRemaining = 60;
+    public float timeRemaining;
     public Text timerText;
     public GameObject objDestr;
 
     public float elapsedTime = 1f;
+
+    void Start()
+    {
+        ModeScript modeScript = GameObject.FindObjectOfType<ModeScript>();
+        if (!ModeScript.isBeginner)
+        {
+            timeRemaining = 1200f;
+        }
+        else
+        {
+            timeRemaining = 60f;
+        }
+    }
 
     void Update()
     {
