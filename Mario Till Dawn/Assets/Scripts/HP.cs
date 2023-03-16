@@ -7,7 +7,7 @@ using UnityEngine.SocialPlatforms.Impl;
 
 public class HP : MonoBehaviour
 {
-    public int hp;
+    private int hp = 90;
     public Text hpt;
     public Text timeText;
     public GameObject deadMenu;
@@ -59,8 +59,7 @@ public class HP : MonoBehaviour
         {
             Time.timeScale = 0f;
             deadMenu.SetActive(true);
-            timer.enabled = false;
-            float saveTime = timer.elapsedTime;
+            float saveTime = Timer.elapsedTime;
             int minutes = Mathf.FloorToInt(saveTime / 60f);
             int seconds = Mathf.FloorToInt(saveTime % 60f);
             timeText.text = string.Format("Time: {0:00}:{1:00}", minutes, seconds);

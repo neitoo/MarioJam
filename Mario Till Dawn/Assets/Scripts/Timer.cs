@@ -10,7 +10,7 @@ public class Timer : MonoBehaviour
     public Text timerText;
     public GameObject objDestr;
 
-    public float elapsedTime = 1f;
+    public static float elapsedTime = 0f;
 
     void Start()
     {
@@ -20,7 +20,7 @@ public class Timer : MonoBehaviour
         }
         else
         {
-            timeRemaining = 60f;
+            timeRemaining = 6f;
         }
     }
 

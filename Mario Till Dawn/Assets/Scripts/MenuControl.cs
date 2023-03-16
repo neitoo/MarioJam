@@ -19,6 +19,11 @@ public class MenuControl : MonoBehaviour
         SceneManager.LoadScene("MainScene");
     }
 
+    public void Restart(){
+        Timer.elapsedTime = 0f;
+        SceneManager.LoadScene("MainScene");
+    }
+
     public void ExitGame(){
         Application.Quit();
     }
