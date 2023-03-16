@@ -11,9 +11,11 @@ public class HP : MonoBehaviour
     public Text hpt;
     public Text timeText;
     public GameObject deadMenu;
-    public int damage;
+    private int damage = 10;
+    private int health = 10;
     private Timer timer;
-    public AudioSource audioSource;
+    public AudioSource audioSourceDamage;
+    public AudioSource audioSourceHealth;
 
     void Start()
     {
@@ -26,11 +28,31 @@ public class HP : MonoBehaviour
     {
         if (collision.gameObject.tag == "Enemy")
         {
-            audioSource.Play();
+            audioSourceDamage.Play();
             hp = hp - damage;
             hpt.text = "Hp " + hp.ToString();
+            
+        }
+        
+    }
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.tag == "Heart")
+        {
+            audioSourceHealth.Play();
+            if(hp == 100){
+                hp += 0;
+            }
+            else{
+                hp = hp + health;
+            }
+            hpt.text = "Hp " + hp.ToString();
+            Destroy(other.gameObject);
+            HeartSpawn.spawnCount--;
         }
     }
+
     void Update()
     {
         if (hp <= 0)

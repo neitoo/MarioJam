@@ -8,14 +8,14 @@ public class HeartSpawn : MonoBehaviour
     private float radius = 40f;
     private float spawnInterval;
     private int maxSpawnCount = 2;
-    private int spawnCount;
+    public static int spawnCount;
     private float lastSpawnTime;
 
     private void Start()
     {
         if (!ModeScript.isBeginner)
         {
-            spawnInterval = 300f;
+            spawnInterval = 180f;
         }
         else
         {
