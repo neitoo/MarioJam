@@ -7,7 +7,7 @@ using UnityEngine.SocialPlatforms.Impl;
 
 public class HP : MonoBehaviour
 {
-    private int hp = 90;
+    private int hp = 100;
     public Text hpt;
     public Text timeText;
     public GameObject deadMenu;

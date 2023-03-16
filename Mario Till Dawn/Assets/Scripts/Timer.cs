@@ -20,7 +20,7 @@ public class Timer : MonoBehaviour
         }
         else
         {
-            timeRemaining = 6f;
+            timeRemaining = 60f;
         }
     }
 
